@@ -2,7 +2,7 @@
 simple cloud computation scenario using Socket programming
 
 Consider the following simple and small cloud computation scenario:-
-Suppose there are four computers, viz., M1– M4, as shown in Fig. 1. M1 acts as an End-Client which
+Suppose there are four computers, viz., M1– M4. M1 acts as an End-Client which
 can send service requests to M2 which acts as the Service Coordination Server (SCS). The service request
 sent by the client is actually a computation service request where some mathematical computation is
 requested on some data. However, the input data is not sent by the client machine rather; it’s service request
