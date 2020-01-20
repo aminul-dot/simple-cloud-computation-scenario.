@@ -15,3 +15,5 @@ format as that of the individual data kept in the data server. The SCS, after re
 from the client, first retrieves the required data from the data server and then sends the appropriate
 computation request along with the input data to the compute server. When compute server returns back
 the result, the SCS forwards it to the client back.
+
+Port we have used 8001,8002 and 8003
